@@ -1,0 +1,81 @@
+36
+Bihac
+Cazin
+BosanskaGradiska
+BanjaLuka
+Prnjavor
+BosanskiBrod
+Tesanj
+Doboj
+Brcko
+Orasje
+Bijeljina
+Tuzla
+Zivinice
+Kladanj
+Zepce
+Zenica
+Kakanj
+SanskiMost
+Kljuc
+MrkonjicGrad
+Jajce
+Bugojno
+Travnik
+Foca
+Gorazde
+Konjic
+Sarajevo
+Visoko
+Ilijas
+Olovo
+SirokiBrijeg
+Mostar
+Neum
+Jablanica
+Kupres
+Livno
+37
+Sarajevo Visoko 19
+Sarajevo Ilijas 14
+Tesanj Doboj 12
+Doboj Tuzla 38
+Zenica Zepce 25
+Mostar Jablanica 33
+Bihac Cazin 16
+BanjaLuka Prnjavor 33
+Tuzla Bijeljina 43
+BanjaLuka BosanskaGradiska 32
+Sarajevo Gorazde 64
+Tuzla Zivinice 8
+Sarajevo Olovo 30
+Kladanj Zivinice 21
+SirokiBrijeg Mostar 14
+Doboj BosanskiBrod 39
+BanjaLuka Doboj 68
+Kupres Livno 28
+Bugojno Jajce 28
+Travnik Bugojno 26
+Jajce MrkonjicGrad 14
+MrkonjicGrad Kljuc 23
+Kljuc SanskiMost 25
+Gorazde Foca 21
+Sarajevo Konjic 34
+Bijeljina Brcko 23
+Brcko Orasje 16
+Kakanj Zenica 18
+Mostar Neum 47
+Kakanj Visoko 13
+Zepce Tesanj 25
+Olovo Kladanj 13
+Cazin SanskiMost 80
+Bihac SanskiMost 74
+Kupres Bugojno 14
+Konjic Jablanica 15
+Travnik Ilijas 42
+Tesanj Bihac
+2
+Cazin Neum
+1
+Bugojno
+

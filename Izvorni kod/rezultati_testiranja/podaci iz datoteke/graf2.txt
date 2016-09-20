@@ -1,0 +1,25 @@
+OZNAKE CVOROVA:
+Ind: 0 ; Oznaka: v1 ; Stepen: 3
+Ind: 1 ; Oznaka: v2 ; Stepen: 2
+Ind: 2 ; Oznaka: v3 ; Stepen: 3
+Ind: 3 ; Oznaka: v4 ; Stepen: 2
+Ind: 4 ; Oznaka: v5 ; Stepen: 2
+Ind: 5 ; Oznaka: v6 ; Stepen: 2
+Ind: 6 ; Oznaka: v7 ; Stepen: 2
+INDEXI CVOROVA:
+Oznaka: v7 ; Ind: 6
+Oznaka: v5 ; Ind: 4
+Oznaka: v4 ; Ind: 3
+Oznaka: v3 ; Ind: 2
+Oznaka: v6 ; Ind: 5
+Oznaka: v2 ; Ind: 1
+Oznaka: v1 ; Ind: 0
+BROJ GRANA: 8
+GRANE:
+ 0 17 6 22 0 0 0
+ 17 0 15 0 0 0 0
+ 6 15 0 12 0 0 0
+ 22 0 12 0 0 0 0
+ 0 0 0 0 0 1 19
+ 0 0 0 0 1 0 13
+ 0 0 0 0 19 13 0

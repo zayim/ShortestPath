@@ -1,0 +1,3 @@
+Optimalan put: 
+Duzina: -1
+Vrijeme izvrsavanja: 0s

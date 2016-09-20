@@ -1,0 +1,112 @@
+OZNAKE CVOROVA:
+Ind: 0 ; Oznaka: Bihac ; Stepen: 2
+Ind: 1 ; Oznaka: Cazin ; Stepen: 2
+Ind: 2 ; Oznaka: BosanskaGradiska ; Stepen: 1
+Ind: 3 ; Oznaka: BanjaLuka ; Stepen: 3
+Ind: 4 ; Oznaka: Prnjavor ; Stepen: 1
+Ind: 5 ; Oznaka: BosanskiBrod ; Stepen: 1
+Ind: 6 ; Oznaka: Tesanj ; Stepen: 2
+Ind: 7 ; Oznaka: Doboj ; Stepen: 4
+Ind: 8 ; Oznaka: Brcko ; Stepen: 2
+Ind: 9 ; Oznaka: Orasje ; Stepen: 1
+Ind: 10 ; Oznaka: Bijeljina ; Stepen: 2
+Ind: 11 ; Oznaka: Tuzla ; Stepen: 3
+Ind: 12 ; Oznaka: Zivinice ; Stepen: 2
+Ind: 13 ; Oznaka: Kladanj ; Stepen: 2
+Ind: 14 ; Oznaka: Zepce ; Stepen: 2
+Ind: 15 ; Oznaka: Zenica ; Stepen: 2
+Ind: 16 ; Oznaka: Kakanj ; Stepen: 2
+Ind: 17 ; Oznaka: SanskiMost ; Stepen: 3
+Ind: 18 ; Oznaka: Kljuc ; Stepen: 2
+Ind: 19 ; Oznaka: MrkonjicGrad ; Stepen: 2
+Ind: 20 ; Oznaka: Jajce ; Stepen: 2
+Ind: 21 ; Oznaka: Bugojno ; Stepen: 3
+Ind: 22 ; Oznaka: Travnik ; Stepen: 2
+Ind: 23 ; Oznaka: Foca ; Stepen: 1
+Ind: 24 ; Oznaka: Gorazde ; Stepen: 2
+Ind: 25 ; Oznaka: Konjic ; Stepen: 2
+Ind: 26 ; Oznaka: Sarajevo ; Stepen: 5
+Ind: 27 ; Oznaka: Visoko ; Stepen: 2
+Ind: 28 ; Oznaka: Ilijas ; Stepen: 2
+Ind: 29 ; Oznaka: Olovo ; Stepen: 2
+Ind: 30 ; Oznaka: SirokiBrijeg ; Stepen: 1
+Ind: 31 ; Oznaka: Mostar ; Stepen: 3
+Ind: 32 ; Oznaka: Neum ; Stepen: 1
+Ind: 33 ; Oznaka: Jablanica ; Stepen: 2
+Ind: 34 ; Oznaka: Kupres ; Stepen: 2
+Ind: 35 ; Oznaka: Livno ; Stepen: 1
+INDEXI CVOROVA:
+Oznaka: Neum ; Ind: 32
+Oznaka: Ilijas ; Ind: 28
+Oznaka: Olovo ; Ind: 29
+Oznaka: Visoko ; Ind: 27
+Oznaka: Travnik ; Ind: 22
+Oznaka: Orasje ; Ind: 9
+Oznaka: Bihac ; Ind: 0
+Oznaka: Jablanica ; Ind: 33
+Oznaka: Doboj ; Ind: 7
+Oznaka: Brcko ; Ind: 8
+Oznaka: MrkonjicGrad ; Ind: 19
+Oznaka: Bijeljina ; Ind: 10
+Oznaka: Konjic ; Ind: 25
+Oznaka: BanjaLuka ; Ind: 3
+Oznaka: SanskiMost ; Ind: 17
+Oznaka: Livno ; Ind: 35
+Oznaka: Foca ; Ind: 23
+Oznaka: Kakanj ; Ind: 16
+Oznaka: Prnjavor ; Ind: 4
+Oznaka: Tesanj ; Ind: 6
+Oznaka: Cazin ; Ind: 1
+Oznaka: Gorazde ; Ind: 24
+Oznaka: Tuzla ; Ind: 11
+Oznaka: Kupres ; Ind: 34
+Oznaka: Mostar ; Ind: 31
+Oznaka: Sarajevo ; Ind: 26
+Oznaka: Kljuc ; Ind: 18
+Oznaka: Zivinice ; Ind: 12
+Oznaka: BosanskiBrod ; Ind: 5
+Oznaka: Kladanj ; Ind: 13
+Oznaka: Zepce ; Ind: 14
+Oznaka: SirokiBrijeg ; Ind: 30
+Oznaka: Zenica ; Ind: 15
+Oznaka: Jajce ; Ind: 20
+Oznaka: BosanskaGradiska ; Ind: 2
+Oznaka: Bugojno ; Ind: 21
+BROJ GRANA: 37
+GRANE:
+ 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 74 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 80 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 32 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 32 0 33 0 0 68 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 33 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 39 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 12 0 0 0 0 0 0 25 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 68 0 39 12 0 0 0 0 38 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 16 23 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 23 0 0 43 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 38 0 0 43 0 8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 8 0 21 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 21 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 13 0 0 0 0 0 0
+ 0 0 0 0 0 0 25 0 0 0 0 0 0 0 0 25 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 25 0 18 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 18 0 0 0 0 0 0 0 0 0 0 0 13 0 0 0 0 0 0 0 0
+ 74 80 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 25 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 25 0 23 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 23 0 14 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 14 0 28 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 28 0 26 0 0 0 0 0 0 0 0 0 0 0 14 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 26 0 0 0 0 0 0 42 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 21 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 21 0 0 64 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 34 0 0 0 0 0 0 15 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 64 34 0 19 14 30 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 13 0 0 0 0 0 0 0 0 0 19 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 42 0 0 0 14 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 13 0 0 0 0 0 0 0 0 0 0 0 0 30 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 14 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 14 0 47 33 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 47 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 15 0 0 0 0 0 33 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 14 0 0 0 0 0 0 0 0 0 0 0 0 0 28
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 28 0
